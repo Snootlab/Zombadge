@@ -1,0 +1,63 @@
+=========================================================================================
+     _______..__   __.   ______     ______   .___________. __          ___      .______   
+    /       ||  \ |  |  /  __  \   /  __  \  |           ||  |        /   \     |   _  \  
+   |   (----`|   \|  | |  |  |  | |  |  |  | `---|  |----`|  |       /  ^  \    |  |_)  | 
+    \   \    |  . `  | |  |  |  | |  |  |  |     |  |     |  |      /  /_\  \   |   _  <  
+.----)   |   |  |\   | |  `--'  | |  `--'  |     |  |     |  `----./  _____  \  |  |_)  | 
+|_______/    |__| \__|  \______/   \______/      |__|     |_______/__/     \__\ |______/  
+                                                                                          
+=========================================================================================
+Infos : snootlab.com
+Contact : contact@snootlab.com
+Questions : forum.snootlab.com
+
+
+============ REGLES DU JEU : THE SURVIVOR ============
+===== Fonctionnement du badge
+Allumé et vivant : Vert clignotement lent
+Appui sur le bouton passe en mode meurtre : Rouge clignotement rapide
+Allumé et mort : Eteint
+
+
+
+===== BUT DU JEU 
+Etre le dernier badge en vie après avoir tué tous les autres.
+
+===== DEROULEMENT DU JEU
+Chaque joueur prends un badge, l'allume et le met autour de son cou.
+Durant le jeu, les personnes marchent et discutent comme si tout était normal.
+
+Pour assassiner un joueur, il faut discrètement appuyer sur le bouton de votre badge et laisser allumer au moins 2 secondes en face de celui de votre victime.
+Lorsqu'un joueur est assassiné, son badge s'éteindra 20secondes plus tard, pour permettre à l'assassin de rester discret !
+
+Lorsqu'un joueur est vu (via son clignotement rouge) en train de tuer un autre joueur, le témoin le dénonce et l'interpelle immédiatement. 
+Une mise à mort est ensuite organisée pour châtier le coupable !
+
+Le jeu reprend ensuite son cours!
+
+Que le meilleur ninja gagne !
+
+
+============ GAME RULES : THE SURVIVOR ============
+=====  badge's behaviour
+ON and alive : slow blinking green
+To push on the button set the murder mode : fast blinking red
+ON and dead : LED off
+
+
+===== GOAL
+To be the last badge alive. 
+
+===== PRINCIPLES OF THE GAME
+Every player pick a badge, turn it on and put it around his neck.
+During the game, people walk, chat and act normaly.
+
+To murder a player, you have to push the button on the badge for at least 2 seconds, in front of your victim's badge.
+When one player went to be murdered, his badge will turn off the LED 20 segonds later, to allow the killer to keep a low profile !
+
+If one player is seen (via his red blinking) killing another player, the witness denounce him immediately to all the others players.
+An execution is then organised to punish the culpable !
+
+The game then continue.
+Be fair play,
+and may the stealthy ninja win !

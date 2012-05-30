@@ -1,0 +1,83 @@
+=========================================================================================
+     _______..__   __.   ______     ______   .___________. __          ___      .______   
+    /       ||  \ |  |  /  __  \   /  __  \  |           ||  |        /   \     |   _  \  
+   |   (----`|   \|  | |  |  |  | |  |  |  | `---|  |----`|  |       /  ^  \    |  |_)  | 
+    \   \    |  . `  | |  |  |  | |  |  |  |     |  |     |  |      /  /_\  \   |   _  <  
+.----)   |   |  |\   | |  `--'  | |  `--'  |     |  |     |  `----./  _____  \  |  |_)  | 
+|_______/    |__| \__|  \______/   \______/      |__|     |_______/__/     \__\ |______/  
+                                                                                          
+=========================================================================================
+Infos : snootlab.com
+Contact : contact@snootlab.com
+Questions : forum.snootlab.com
+
+
+============ REGLES DU JEU : ZOMBIE GAME ============
+===== Fonctionnement du badge
+Allumé et humain : Vert clignotement lent
+Appui sur le bouton passe en mode médecin (si vous êtes humain) : Bleu clignotement rapide
+Allumé et zombie : Rouge clignotement lent
+
+NOMBRE DE JOUEURS MINIMUM : 10
+NOMBRE DE JOUEURS CONSEILLE : Supérieur à 30
+TOTAL FUN : 150 joueurs !!!
+
+===== BUT DU JEU 
+Si vous êtes humain : Soigner les zombies et éviter d'être infecté
+Si vous êtes zombie : Répandre l'infection, et semer le chaos !
+
+===== DEROULEMENT DU JEU
+Chaque joueur prends un badge, l'allume et le met autour de son cou.
+Durant le jeu, les personnes marchent et discutent comme si tout était normal.
+
+Les badges vont communiquer entre eux, et commencer à s'infecter.
+Plus la couleur du clignotement se rapproche du rouge, et plus, vous êtes en train de vous transformer en zombie.
+
+L'infection se propage quand les badges communiquent entre eux, à une distance inférieur à 10m.
+
+Si vous êtes humain, une fois toutes les 40 minutes, vous êtes capable d'utiliser un kit médical.
+En effet, en appuyant sur le bouton, vous pouvez instantanément soigner un zombie.
+Efficace, mais à n'utiliser qu'en cas d'urgence !
+
+Les badges gardent en mémoire votre identité et votre niveau d'infection, 
+vous ne pouvez pas redevenir humain en éteignant puis rallumant votre badge.
+
+===== POUR DECLENCHER UNE INFECTION
+Pour commencer à infecter des badges, viser avec la télécommande infrarouge (snootlab) un ou plusieurs badges, 
+et appuyer sur différents bouttons jusqu'à ce que le ou les badges aient eu le temps de clignoter deux fois.
+Ces badges se transformeront ainsi un peu plus tard en zombies, prêts à contaminer tous les autres joueurs !
+
+
+
+
+============ GAME RULES : ZOMBIE GAME ============
+=====  badge's behaviour
+ON and human : slow blinking green
+To push on the button set the medic mode (if you are human) : fast blinking blue
+ON and zombie : slow blinking red
+
+
+===== GOAL
+If you are human : Heal the zombies and avoid to be infected
+If you are a zombie : Spread the infection and the chaos !
+
+===== PRINCIPLES OF THE GAME
+Every player pick a badge, turn it on and put it around his neck.
+During the game, people walk, chat and act normaly.
+
+The badges will communicate between them, start to infect each others.
+More the color of led's blinking is getting close to red, and more you are turning into a zombie.
+
+The infection spread herself when the badges "talk" between them, in a range of less than 10m.
+
+If you are human, one time every 40 minutes, you can use a "medkit".
+By pushing the button, you can instantaneous heal a zombie.
+Damn effective, but use it wisely !
+
+The badges keep in memory his own ID and his infection level,
+so you can't turn back human by just rebooting the badge.
+
+===== TO START AN INFECTION
+To spray the infection, aim with the IR remote control (snootlab) one or more badges,
+then push on differents buttons, until the aimed badge(s) blinked twice.
+This badges will turn to zombie later, ready to infect the other players !

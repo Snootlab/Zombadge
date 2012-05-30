@@ -1,0 +1,74 @@
+=========================================================================================
+     _______..__   __.   ______     ______   .___________. __          ___      .______   
+    /       ||  \ |  |  /  __  \   /  __  \  |           ||  |        /   \     |   _  \  
+   |   (----`|   \|  | |  |  |  | |  |  |  | `---|  |----`|  |       /  ^  \    |  |_)  | 
+    \   \    |  . `  | |  |  |  | |  |  |  |     |  |     |  |      /  /_\  \   |   _  <  
+.----)   |   |  |\   | |  `--'  | |  `--'  |     |  |     |  `----./  _____  \  |  |_)  | 
+|_______/    |__| \__|  \______/   \______/      |__|     |_______/__/     \__\ |______/  
+                                                                                          
+=========================================================================================
+Infos : snootlab.com
+Contact : contact@snootlab.com
+Questions : forum.snootlab.com
+
+
+============ REGLES DU JEU : THE DETECTIVES ============
+===== Fonctionnement du badge
+Allumé et vivant : Vert clignotement lent
+Appui sur le bouton pour l'assassin passe en mode meurtre : Rouge clignotement rapide
+Appui sur le bouton pour les détectives, ne fait rien : Vert continu
+Allumé et mort : Eteint
+
+
+
+===== BUT DU JEU 
+Pour les detectives : trouver l'assassin.
+Pour l'assassin : être seul en vie avec plus qu'un seul détective vivant.
+
+===== DEROULEMENT DU JEU
+Chaque joueur prends un badge au hasard, l'allume et le met autour de son cou.
+Secretement, en appuyant sur le bouton, chaque joueur regarde si il est l'assassin (rouge) ou un détective (vert).
+Il est interdit de communiquer votre identité dans le jeu aux autres joueurs.
+Durant le jeu, les personnes marchent et discutent comme si tout était normal.
+
+Pour assassiner un joueur, il faut discrètement appuyer sur le bouton de votre badge et laisser allumer au moins 2 secondes en face de celui de votre victime.
+Lorsqu'un joueur est assassiné, son badge s'éteindra 20secondes plus tard, pour permettre à l'assassin de rester discret !
+
+Quand un des détectives à un doute sur l'identité de l'assassin, il désigne la personne en question, et l'accuse publiquement.
+La personne doit alors devant tout le monde appuyer sur son boutton. 
+Si son badge devient rouge, c'était le meurtrier, les détectives ont gagné la partie.
+Si l'accusation était fausse et que son badge devient vert, l'accusateur et la personne accusée meurent tous les deux et éteignent leurs badges.
+
+Le jeu reprend ensuite son cours!
+Soyez bon joueur, et que le meilleur gagne gagne !
+
+
+============ GAME RULES : THE DETECTIVES ============
+=====  Badge's behaviour
+ON and alive : slow blinking green
+To push on the button for the assassin set the murder mode : fast blinking red
+To push on the button for the detectives do nothing : full green on
+ON and dead : LED off
+
+
+===== GOAL
+For the detectives : find the assassin.
+For the assassin : to be the last alive with the last detective.
+
+===== PRINCIPLES OF THE GAME
+Every player pick a badge randomly, turn it on and put it around his neck.
+Secretely, by pushing the button, every player look if he is the assassin (red) or one of the detectives (green).
+It's forbidden to disclose your identity ingame to other players.
+During the game, people walk, chat and act normaly.
+
+To murder a player, the assassin have to push the button on the badge for at least 2 seconds, in front of his victim's badge.
+When one player went to be murdered, his badge will turn off the LED 20 segonds later, to allow the killer to keep a low profile !
+
+When one detective have a doubt on the assassin identity, he can design the person supposed to be guilty and do a public accusation.
+The accused person then have to, in front of every body, push on his button.
+If his badge turn to red, he is the killer, the detectives wins.
+If his badge turn to green, that means that it was just a normal detective, so the accusator and the accused are dead, by turning of their badges.
+
+The game then continue.
+Be fair play,
+and may the better win !
